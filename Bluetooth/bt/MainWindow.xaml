@@ -1,0 +1,21 @@
+﻿<Window x:Class="bt.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Bluetooth" Height="445.239" Width="685"  ResizeMode="NoResize">
+    <Grid>
+        <Button Margin="21.841,379.832,414.961,0" Name="findBtn" Height="23" VerticalAlignment="Top" Click="findBtnClick">Wyszukaj urzadzenia</Button>
+        <ListBox SelectionChanged="deviceListSelectionChanged" Margin="22,197.563,0,0" Name="deviceList" HorizontalAlignment="Left" Width="633" Height="163.21" VerticalAlignment="Top" />
+        <Label Height="28" Margin="17,55.537,551,0" x:Name="label1" VerticalAlignment="Top" Content="Nazwa:"/>
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,116.05,551,0" Name="label2" VerticalAlignment="Top" Width="111">Połączony:</Label>
+        <Label Height="28" Margin="17,86.537,551,0" Name="label3" VerticalAlignment="Top">Autoryzowany:</Label>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,58.537,258,0" Name="deviceNameTB" VerticalAlignment="Top" Width="288" IsReadOnly="True" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,119.537,258,0" Name="connectedTB" VerticalAlignment="Top" Width="288" IsReadOnly="True" />
+        <TextBox HorizontalAlignment="Right" Margin="0,88.537,258,0" Name="authenticatedTB" Width="288" Height="23" VerticalAlignment="Top" IsReadOnly="True" />
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,379.832,289.289,0" Name="searchBtn" VerticalAlignment="Top" Width="114.967" Click="browseBtnClick">Wybierz plik</Button>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,379.832,155.906,0" Name="sendBtn" VerticalAlignment="Top" Width="114.967" Click="sendBtnClick" IsEnabled="False">Wyślij plik</Button>
+        <Button Content="Sparuj" Margin="540.033,379.831,24,0" VerticalAlignment="Top" Name="pairBtn" Click="pairBtnClick"/>
+        <Label Content="Informacje o urzadzeniu:" HorizontalAlignment="Left" Height="29.798" Margin="22,10,0,0" VerticalAlignment="Top" Width="399"/>
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,144.05,551,0" x:Name="label2_Copy" VerticalAlignment="Top" Width="111" Content="Adres:"/>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,147.537,258,0" x:Name="adressTB" VerticalAlignment="Top" Width="288" IsReadOnly="True" />
+    </Grid>
+</Window>
