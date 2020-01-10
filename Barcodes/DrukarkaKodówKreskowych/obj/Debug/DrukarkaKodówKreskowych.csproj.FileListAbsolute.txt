@@ -1,0 +1,16 @@
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\bin\Debug\DrukarkaKodówKreskowych.exe.config
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\bin\Debug\DrukarkaKodówKreskowych.exe
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\bin\Debug\DrukarkaKodówKreskowych.pdb
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\bin\Debug\Spire.Barcode.dll
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\bin\Debug\Spire.License.dll
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\bin\Debug\System.Drawing.Common.dll
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\bin\Debug\Spire.Barcode.xml
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\bin\Debug\Spire.License.xml
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\obj\Debug\DrukarkaKodówKreskowych.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\obj\Debug\DrukarkaKodówKreskowych.FormMain.resources
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\obj\Debug\DrukarkaKodówKreskowych.Properties.Resources.resources
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\obj\Debug\DrukarkaKodówKreskowych.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\obj\Debug\DrukarkaKodówKreskowych.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\obj\Debug\DrukarkaKodówKreskowych.csproj.CopyComplete
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\obj\Debug\DrukarkaKodówKreskowych.exe
+C:\Users\lab\source\repos\DrukarkaKodówKreskowych\DrukarkaKodówKreskowych\obj\Debug\DrukarkaKodówKreskowych.pdb
